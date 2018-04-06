@@ -1,5 +1,9 @@
 package site.gaoyisheng.twist.domain;
 
+/**
+ * 统一前台返回接口.
+ * @param <T> 返回数据的类型.
+ */
 public class Result<T> {
 
     /**
